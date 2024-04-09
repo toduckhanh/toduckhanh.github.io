@@ -48,8 +48,7 @@ You can also find full list of my publications on [Google Scholar profile.](http
 ## Submitted articles
 * To. D. K., Adimari, G., and Chiogna, M., (2023). A new evaluation strategy for diagnostic tests under umbrella or tree ordering. *Submitted*.
 
-* To. D. K., Adimari, G., and Chiogna, M., (2023). Interval estimation in three-class ROC analysis: a fairly general approach based on the empirical likelihood. *Submitted*.
-
+* 
 
 ## Software
 * bcROCsurface: Bias-corrected methods for estimating ROC surface and VUS for continuous diagnostic tests. Available on CRAN-R: <https://CRAN.R-project.org/package=bcROCsurface>, version 1.0-5 (2022).
