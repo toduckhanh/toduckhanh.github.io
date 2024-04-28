@@ -8,7 +8,7 @@ author_profile: true
 
 You can also find full list of my publications on [Google Scholar profile.](https://scholar.google.com/citations?user=iVs_vmIAAAAJ)
 
-* To. D. K., Adimari, G., and Chiogna, M. (2024). Interval estimation in three-class receiver operating characteristic analysis: A fairly general approach based on the empirical likelihood. *Statistical Methods in Medical Research*. Online First. [DOI: 10.1177/09622802241238998](https://doi.org/10.1177/09622802241238998)
+* To. D. K., Adimari, G., and Chiogna, M. (2024). Interval estimation in three-class receiver operating characteristic analysis: A fairly general approach based on the empirical likelihood. *Statistical Methods in Medical Research*. **33**, 5, 875 - 893. [DOI: 10.1177/09622802241238998](https://doi.org/10.1177/09622802241238998)
 
 * Adimari, G., To. D. K., Chiogna, M., Scatozza, F. and Facchiano, A. (2024). Likelihood-type confidence regions for optimal sensitivity and specificity of a diagnostic test. *Computational Statistics and Data Analysis*. **189**, 107840 - 107857. [DOI: 10.1016/j.csda.2023.107840](https://doi.org/10.1016/j.csda.2023.107840)
 
