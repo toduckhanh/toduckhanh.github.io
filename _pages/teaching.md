@@ -6,6 +6,24 @@ author_profile: true
 
 ## A.Y. 2023 - 2024
 
+* Teacher in charge: **Statistical Data Processing**
+  * 30 hours (30h for Lectures and 30h for Lab R), 3 CFU. 
+  * Bachelor of Mathematics and Computer Science / Bachelor of Data Science. 
+  * First semester from 05/09/2022 to 15/01/2023.
+  * Faculty of Mathematics and Computer Science, University of Science, Vietnam National University - Ho Chi Minh city, Vietnam
+
+* Teacher in charge: **Generalized Linear Models**
+  * 75 hours (45h for Lectures and 30h for Lab R), 4 CFU. 
+  * Bachelor of Mathematics and Computer Science. 
+  * First semester from 01/03/2024 to 23/06/2024.
+  * Faculty of Mathematics and Computer Science, University of Science, Vietnam National University - Ho Chi Minh city, Vietnam
+
+* Teacher in charge: **Introduction to Biostatistics**
+  * 60 hours (30h for Lectures and 30h for Lab R), 3 CFU. 
+  * Bachelor of Mathematics and Computer Science. 
+  * First semester from 05/09/2023 to 15/01/2024.
+  * Faculty of Mathematics and Computer Science, University of Science, Vietnam National University - Ho Chi Minh city, Vietnam
+
 
 ## A.Y. 2022 - 2023
 
