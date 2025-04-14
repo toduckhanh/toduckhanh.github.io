@@ -7,6 +7,7 @@ author_profile: true
 ## Academic publications
 
 You can also find full list of my publications on [Google Scholar profile.](https://scholar.google.com/citations?user=iVs_vmIAAAAJ)
+* To. D. K., Adimari, G., and Chiogna, M., (2025). A new evaluation strategy for diagnostic tests under umbrella or tree ordering. *International Statistical Review*. [DOI: 10.1111/insr.12612](https://doi.org/10.1111/insr.12612)
 
 * To. D. K., Adimari, G., and Chiogna, M. (2024). Interval estimation in three-class receiver operating characteristic analysis: A fairly general approach based on the empirical likelihood. *Statistical Methods in Medical Research*. **33**, 5, 875 - 893. [DOI: 10.1177/09622802241238998](https://doi.org/10.1177/09622802241238998)
 
@@ -46,7 +47,6 @@ You can also find full list of my publications on [Google Scholar profile.](http
 
 
 ## Submitted articles
-* To. D. K., Adimari, G., and Chiogna, M., (2023). A new evaluation strategy for diagnostic tests under umbrella or tree ordering. *Submitted*.
 
 * 
 
