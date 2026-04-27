@@ -4,6 +4,78 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## A.Y. 2025 - 2026
+
+* Teacher in charge: **Statistical Data Processing**
+  * 30 hours (30h for Lectures and 30h for Lab R), 3 CFU. 
+  * Bachelor of Mathematics and Computer Science / Bachelor of Data Science. 
+  * First semester.
+  * Faculty of Mathematics and Computer Science, University of Science, Vietnam National University - Ho Chi Minh city, Vietnam
+
+* Teacher in charge: **Data Visualization**
+  * 75 hours (45h for Lectures and 30h for Lab Power BI), 4 CFU. 
+  * Bachelor of Data Science and Bachelor of Mathematics and Computer Science.
+  * First semester.
+  * Faculty of Mathematics and Computer Science, University of Science, Vietnam National University - Ho Chi Minh city, Vietnam
+
+* Teacher in charge: **Introduction to Biostatistics**
+  * 60 hours (30h for Lectures and 30h for Lab R), 3 CFU. 
+  * Bachelor of Mathematics and Computer Science. 
+  * First semester.
+  * Faculty of Mathematics and Computer Science, University of Science, Vietnam National University - Ho Chi Minh city, Vietnam
+
+* Teacher in charge: **Bayes Models**
+  * 75 hours (45h for Lectures and 30h for Lab Power BI), 4 CFU. 
+  * Bachelor of Mathematics and Computer Science.
+  * First semester.
+  * Faculty of Mathematics and Computer Science, University of Science, Vietnam National University - Ho Chi Minh city, Vietnam
+
+* Teacher in charge: **Computational Statistics**
+  * 60 hours (30h for Lectures and 30h for Lab R), 4 CFU. 
+  * Master degree of Data Science. 
+  * Second semester.
+  * Faculty of Mathematics and Computer Science, University of Science, Vietnam National University - Ho Chi Minh city, Vietnam
+
+* Teacher in charge: **Mathematical Statistics**
+  * 45 hours (45h for Lectures), 3 CFU. 
+  * Bachelor of Mathematics and Computer Science.
+  * Second semester.
+  * Faculty of Mathematics and Computer Science, University of Science, Vietnam National University - Ho Chi Minh city, Vietnam
+
+* Teacher in charge: **Generalized Linear Models**
+  * 75 hours (45h for Lectures and 30h for Lab R), 4 CFU. 
+  * Bachelor of Mathematics and Computer Science. 
+  * Second semester.
+  * Faculty of Mathematics and Computer Science, University of Science, Vietnam National University - Ho Chi Minh city, Vietnam
+
+
+## A.Y. 2024 - 2025
+
+* Teacher in charge: **Statistical Data Processing**
+  * 30 hours (30h for Lectures and 30h for Lab R), 3 CFU. 
+  * Bachelor of Mathematics and Computer Science / Bachelor of Data Science. 
+  * First semester.
+  * Faculty of Mathematics and Computer Science, University of Science, Vietnam National University - Ho Chi Minh city, Vietnam
+
+* Teacher in charge: **Data Visualization**
+  * 75 hours (45h for Lectures and 30h for Lab Power BI), 4 CFU. 
+  * Bachelor of Data Science and Bachelor of Mathematics and Computer Science.
+  * First semester.
+  * Faculty of Mathematics and Computer Science, University of Science, Vietnam National University - Ho Chi Minh city, Vietnam
+
+* Teacher in charge: **Computational Statistics**
+  * 60 hours (30h for Lectures and 30h for Lab R), 4 CFU. 
+  * Master degree of Data Science. 
+  * Second semester.
+  * Faculty of Mathematics and Computer Science, University of Science, Vietnam National University - Ho Chi Minh city, Vietnam
+
+* Teacher in charge: **Bayesian Statistics**
+  * 60 hours (30h for Lectures and 30h for Lab R), 4 CFU. 
+  * Master degree of Probability and Mathematical Statistics. 
+  * Second semester.
+  * Faculty of Mathematics and Computer Science, University of Science, Vietnam National University - Ho Chi Minh city, Vietnam
+
+
 ## A.Y. 2023 - 2024
 
 * Teacher in charge: **Statistical Data Processing**

@@ -48,7 +48,8 @@ You can also find full list of my publications on [Google Scholar profile.](http
 
 ## Submitted articles
 
-* 
+* Remoli, G., To, D. K., Adimari, G., and Chiogna, M. (2026). Diagnostic tests under umbrella or tree ordering: a new separation index and associated classification rule. *Under review*.
+* To, D. K., Adimari, G., Chiogna, M. and Remoli, G. (2026). Unravelling sensitivity: exploring covariate effects in early disease detection. *Under review*.
 
 ## Software
 * bcROCsurface: Bias-corrected methods for estimating ROC surface and VUS for continuous diagnostic tests. Available on CRAN-R: <https://CRAN.R-project.org/package=bcROCsurface>, version 1.0-5 (2022).
