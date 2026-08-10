@@ -9,7 +9,7 @@ author_profile: true
 You can also find full list of my publications on [Google Scholar profile.](https://scholar.google.com/citations?user=iVs_vmIAAAAJ)
 1. To, D. K., Adimari, G., Chiogna, M. and Remoli, G. (2026). Unravelling sensitivity: exploring covariate effects in early disease detection. *Statistical Methods & Applications*.[DOI: 10.1007/s10260-026-00873-w](https://doi.org/10.1007/s10260-026-00873-w)
 
-1. To. D. K., Adimari, G., and Chiogna, M., (2025). A new evaluation strategy for diagnostic tests under umbrella or tree ordering. *International Statistical Review*. [DOI: 10.1111/insr.12612](https://doi.org/10.1111/insr.12612)
+1. To. D. K., Adimari, G., and Chiogna, M., (2026). A new evaluation strategy for diagnostic tests under umbrella or tree ordering. *International Statistical Review*. **94**, 2, 242 - 263. [DOI: 10.1111/insr.12612](https://doi.org/10.1111/insr.12612)
 
 1. To. D. K., Adimari, G., and Chiogna, M. (2024). Interval estimation in three-class receiver operating characteristic analysis: A fairly general approach based on the empirical likelihood. *Statistical Methods in Medical Research*. **33**, 5, 875 - 893. [DOI: 10.1177/09622802241238998](https://doi.org/10.1177/09622802241238998)
 
